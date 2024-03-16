@@ -3,7 +3,7 @@ import { FaPlay } from "react-icons/fa";
 
 export const Second_section = () => {
   return (
-    <div className="w-full flex flex-col md:flex-row  px-10 md:px-20 h-screen bg-red-00">
+    <div className="w-full flex flex-col md:flex-row  px-10 md:px-20 h-auto md:mb-56 lg:mb-40 mt-10 bg-red-00">
       <div className="md:w-1/2 flex flex-col bg-red-00 px-16 -ml-20">
         <div className="h-60 lg:h-80 aspect-video bg-white shadow-md w-72 lg:w-full rounded-md">
           <div className="h-[90%] w-full flex items-center justify-center ">
