@@ -12,8 +12,12 @@ export default {
       colors: {
         'custom-orange': '#FF8057',
         'text-color2': '#3B404A',
+        'text-color3': '#4E4E4E',
       }
     },
+    fontFamily:{
+      poppins: ["Poppins"]
+    }
   },
   plugins: [],
 }
