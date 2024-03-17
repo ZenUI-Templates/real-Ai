@@ -2,7 +2,7 @@ import React from "react";
 
 export const Hero = () => {
   return (
-    <div className="w-full lg::h-screen md:mt-16 lg:mt-0 md:mb-20 lg:mb-0 flex flex-col md:flex-row font-poppins ">
+    <div className="w-full lg::h-screen md:mt-16 lg:mt-0 md:mb-20 lg:mb-0 flex flex-col md:flex-row font-poppins bg-blue-00 ">
       <div className="md:w-1/2 lg:h-screen bg-red-00 flex flex-col justify-center mt-16 md:mt-0 ">
         <p className="text-8xl md:text-5xl lg:text-7xl font-bold drop-shadow-[-1px_3px_2px_var(--tw-shadow-color)] shadow-gray-500">
           <span className="text-custom-orange">AI enabled,</span> real people's
@@ -17,7 +17,7 @@ export const Hero = () => {
           <p className="text-xl font-semibold uppercase">Open Studio</p>
         </div>
       </div>
-      <div className="md:w-1/2 lg:h-screen bg-green-00 flex flex-col items-center justify-center relative">
+      <div className="md:w-1/2 lg:h-screen bg-green-00 flex flex-col items-center justify-center relative ml-14 bg-red-00">
         <div className="w-[70%] h-60 lg:h-96 flex items-end justify-end bg-custom-orange rounded-2xl">
           <div className="w-full flex flex-col bg-slate-40 items-center justify-center  overflow-hidden">
             <img

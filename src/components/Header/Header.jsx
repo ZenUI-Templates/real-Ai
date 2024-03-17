@@ -52,7 +52,7 @@ export default function Header({ children }) {
     <>
       <header className="bg-white  sticky mt-2 mb-2 z-40">
         {/* desktop  */}
-        <div className="hidden lg:flex justify-between items-center px-3 max-w-6xl mx-auto">
+        <div className="hidden lg:flex justify-between items-center pr-4 max-w-6xl mx-auto">
           <div className="w-[131px]">
             <img
               src="https://i.ibb.co/nsjDGt1/Frame-13.png"
