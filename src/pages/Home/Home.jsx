@@ -5,6 +5,7 @@ import { Second_section } from "../../components/Home/Second_section";
 import { Third_section } from "../../components/Home/Third_section";
 import { Forth_Section } from "../../components/Home/Forth_Section";
 import { FAQ } from "../../components/Home/FAQ";
+import { Blog_carousel } from "../../components/Home/Blog_carousel";
 
 export const Home = () => {
   return <div className="flex flex-col justify-between items-center px-5 lg:px-20 ">
@@ -14,5 +15,6 @@ export const Home = () => {
     <Third_section/>
     <Forth_Section/>
     <FAQ/>
+    <Blog_carousel/>
   </div>;
 };

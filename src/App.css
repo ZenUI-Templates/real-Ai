@@ -1,1 +1,15 @@
 
+/* .slick-dots{
+    color: chartreuse;
+    
+} */
+.slick-dots li button:before {
+    color: #f59a54 !important;
+  }
+  
+  .slick-dots li.slick-active button:before {
+    color: #ff5722 !important;
+    font-size: 10px !important;
+    /* width: 26px !important;
+    height: 26px !important; */
+  }
