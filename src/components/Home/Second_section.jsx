@@ -43,7 +43,6 @@ export const Second_section = () => {
             <div className="mt-3">
                 <img src="https://i.ibb.co/bJtND8q/Group-14.png" alt="" />
             </div>
-            <div></div>
 
         </div>
 
