@@ -4,7 +4,7 @@ import { MdKeyboardArrowRight } from "react-icons/md";
 
 export const Forth_Section = () => {
   return (
-    <div className="w-full h-full px-10 bg-red-00 flex flex-col items-center justify-center mb-40 -mt-10 md:mt-10">
+    <div className="w-full h-full px-10 bg-red-00 flex flex-col items-center justify-center mb-20 -mt-10 md:mt-10">
       <p className="text-3xl md:text-5xl font-bold mb-5">Get creative with Murf Studio</p>
 
       <div className="h-96 w-full flex flex-col lg:flex-row mt-36 md:mt-5 lg:mt-0 bg-red-00  lg:gap-16">
